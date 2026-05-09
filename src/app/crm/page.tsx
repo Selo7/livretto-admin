@@ -103,7 +103,7 @@ export default function CrmPage() {
                   : 'bg-gray-800 text-gray-400 hover:text-gray-200'
               }`}
             >
-              {'label' in opt ? opt.label : opt.value}
+              D:\claude\livretto-admin
             </button>
           ))}
         </div>
